@@ -1,0 +1,8 @@
+The figures in this folder are shared under the following creative commons license:
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
+
+The files were originally obtained from the following sources:
+https://commons.wikimedia.org/wiki/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
+https://commons.wikimedia.org/wiki/File:Blue_Flag,_Ottawa.jpg
+https://commons.wikimedia.org/wiki/File:Iris_virginica_2.jpg
+
